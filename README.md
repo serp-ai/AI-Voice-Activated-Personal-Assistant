@@ -16,11 +16,13 @@ We call him "SERPy", but you can call him/her whatever you want.
 
 Say goodbye to clunky buttons and screens, stupid "voice chat" assistants that don't know what they're talking about half the time...
 
-Case & Point:
+### Case & Point:
 
 📺 https://www.youtube.com/watch?v=k63mkPJprtY&ab_channel=devinschumacher
 
 📺 https://www.youtube.com/watch?v=zr_3Lr0q6LE&ab_channel=devinschumacher
+
+<br>
 
 And say hello to your personal sidekick (who's prolly the smartest dude you've ever come in contact with.).
 
@@ -51,3 +53,5 @@ It's like having a personal assistant at your beck and call, 24/7.
 With its sleek design and intuitive interface, this AI-powered voice assistant is the future of personal technology.
 
 Join the revolution today and experience the power of AI in the palm of your hand.
+
+🎁 Get it FREE here 👉 https://serp.ly/@serpai/ai-voice-assistant
