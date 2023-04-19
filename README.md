@@ -1,4 +1,5 @@
-# AI-Voice-Activated-Personal-Assistant
+# AI Voice Activated Personal Assistant
+
 Your Very Own Personal "Iron Man Jarvis"
 
 Want to stop pretending to be Tony Stark, and actually BE Iron Man?
@@ -9,16 +10,17 @@ Introducing your new AI-powered personal voice assistant - a revolutionary devic
 
 We call him "SERPy", but you can call him/her whatever you want.
 
-🎁
-Get it FREE here 👉 https://serp.ly/@serpai/ai-voice-assistant
-Sneak Peak!
+🎁 Get it FREE here 👉 https://serp.ly/@serpai/ai-voice-assistant
+
+## Sneak Peak!
 
 Say goodbye to clunky buttons and screens, stupid "voice chat" assistants that don't know what they're talking about half the time...
 
 Case & Point:
 
+📺 https://www.youtube.com/watch?v=k63mkPJprtY&ab_channel=devinschumacher
 
-
+📺 https://www.youtube.com/watch?v=zr_3Lr0q6LE&ab_channel=devinschumacher
 
 And say hello to your personal sidekick (who's prolly the smartest dude you've ever come in contact with.).
 
